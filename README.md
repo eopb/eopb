@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋. My name is Ethan Brierley.
 
-<!--
-**ethanboxx/ethanboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Animation of me" width="135" src="me.gif">
 
-Here are some ideas to get you started:
+I am a student in the South East of England studying Computer Science, Maths, Further Maths and Physics at A-Level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently focusing on full stack 🕸️ web development. I enjoy working with Rust🦀.
+
+Right now I am working on a full stack project as part of my computer science course in 100% Rust
+(including the front-end using webassembly).
+
+I enjoy teaching and learning from others. I work at [techresort](https://techresorteb.com/).
+
+### Hire me.
+
+July next year I will have finished my education and will be looking for a developer role.
+If you think I could be a good fit please get in touch.
+
+### Links
+
+- [🎨Art Portfolio](https://www.behance.net/ethanb)
+- [![Latest version](https://img.shields.io/twitter/follow/efun_b?style=social)](https://twitter.com/efun_b)
+- Discord: efun#6615
