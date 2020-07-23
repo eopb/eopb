@@ -1,6 +1,6 @@
 ### Hello there 👋. My name is Ethan Brierley.
 
-<img align="right" alt="Animation of me" width="135" src="me.gif">
+<img align="right" alt="Animation of me" width="135" src="https://raw.githubusercontent.com/ethanboxx/ethanboxx/master/me.gif">
 
 I am a student in the South East of England studying Computer Science, Maths, Further Maths and Physics at A-Level.
 
