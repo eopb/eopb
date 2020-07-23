@@ -1,4 +1,4 @@
-### Hello there 👋. My name is Ethan Brierley.
+## Hello there 👋. My name is Ethan Brierley.
 
 <img align="right" alt="Animation of me" width="135" src="https://raw.githubusercontent.com/ethanboxx/ethanboxx/master/me.gif">
 
