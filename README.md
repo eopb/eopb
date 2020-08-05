@@ -27,8 +27,8 @@ If you think I could be a good fit please get in touch.
 
 NOTE: Most used languages does not indicate my skill level or anything like that, it's a github metric of which languages I have the most code in on github.
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ethanboxx&count_private=true&show_icons=true&theme=dark">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ethanboxx&count_private=true&show_icons=true&theme=dark&hide_rank=true">
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanboxx&layout=compact&hide=php&theme=dark&hide_rank">
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanboxx&layout=compact&hide=php&theme=dark">
 
 </details>
