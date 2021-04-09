@@ -13,7 +13,7 @@ I enjoy teaching and learning from others. I work at [techresort](https://techre
 
 ### Hire me.
 
-July next year I will have finished my education and will be looking for a developer role.
+June next year I will have finished my education and will be looking for a developer role.
 If you think I could be a good fit please get in touch.
 
 ### Links
