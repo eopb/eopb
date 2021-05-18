@@ -4,17 +4,8 @@
 
 I am a student in the South East of England studying Computer Science, Maths, Further Maths and Physics at A-Level.
 
-I am currently focusing on full stack 🕸️ web development. I enjoy working with Rust🦀.
-
-Right now I am working on a full stack project as part of my computer science course in 100% Rust
-(including the front-end using webassembly).
-
 I enjoy teaching and learning from others. I work at [techresort](https://techresorteb.com/).
 
-### Hire me.
-
-June next year I will have finished my education and will be looking for a developer role.
-If you think I could be a good fit please get in touch.
 
 ### Links
 
