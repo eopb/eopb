@@ -2,9 +2,9 @@
 
 <img align="right" alt="Animation of me" width="135" src="https://raw.githubusercontent.com/ethanboxx/ethanboxx/master/me.gif">
 
-I am a student in the South East of England studying Computer Science, Maths, Further Maths and Physics at A-Level.
+I am a self-taught developer from South East England focusing on [Rust](https://www.rust-lang.org/).
 
-I enjoy teaching and learning from others. I work at [techresort](https://techresorteb.com/).
+I can often be found getting involved at [Rust London](https://www.meetup.com/Rust-London-User-Group/) and [Techresort](https://techresort.org/).
 
 
 ### Links
@@ -18,8 +18,8 @@ I enjoy teaching and learning from others. I work at [techresort](https://techre
 
 *NOTE: Most used languages does not indicate my skill level or anything like that, it's a github metric of which languages I have the most code in on github.*
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ethanboxx&count_private=true&show_icons=true&theme=dark&hide_rank=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=eopb&count_private=true&show_icons=true&theme=dark&hide_rank=true">
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanboxx&layout=compact&hide=php&theme=dark">
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eopb&layout=compact&hide=php&theme=dark">
 
 </details>
