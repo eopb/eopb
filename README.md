@@ -12,9 +12,8 @@ I can often be found getting involved at [Rust London](https://www.meetup.com/Ru
 - [An introduction to const generics](https://lazy.codes/posts/intro-to-const-generics/)
 
 
-### Links
+### Social
 
-- [🎨Art Portfolio](https://www.behance.net/ethanb)
 - [![Latest version](https://img.shields.io/twitter/follow/efun_b?style=social)](https://twitter.com/efun_b)
 - Discord: efun#6615
 
