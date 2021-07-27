@@ -6,6 +6,11 @@ I am a self-taught developer from South East England focusing on [Rust](https://
 
 I can often be found getting involved at [Rust London](https://www.meetup.com/Rust-London-User-Group/) and [Techresort](https://techresort.org/).
 
+### [Blog](https://lazy.codes/)
+
+- [Awesome Unstable Rust Features](https://lazy.codes/posts/awesome-unstable-rust-features/)
+- [An introduction to const generics](https://lazy.codes/posts/intro-to-const-generics/)
+
 
 ### Links
 
