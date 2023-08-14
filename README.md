@@ -2,9 +2,9 @@
 
 <img align="right" alt="Animation of me" width="135" src="https://raw.githubusercontent.com/ethanboxx/ethanboxx/master/me.gif">
 
-I am a self-taught developer from South East England focusing on [Rust](https://www.rust-lang.org/).
+I am an engineer from South East England focusing on [Rust](https://www.rust-lang.org/).
 
-I can often be found getting involved at [Rust London](https://www.meetup.com/Rust-London-User-Group/) and [Techresort](https://techresort.org/).
+I work [@TrueLayer](https://github.com/TrueLayer/) and can often be found helping organise [Rust London](https://www.meetup.com/Rust-London-User-Group/) events.
 
 ### [Blog](https://lazy.codes/)
 
