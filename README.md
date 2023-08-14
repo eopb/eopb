@@ -16,8 +16,3 @@ I work [@TrueLayer](https://github.com/TrueLayer/) and can often be found helpin
 
 - [![Latest version](https://img.shields.io/twitter/follow/efun_b?style=social)](https://twitter.com/efun_b)
 - Discord: efun#6615
-
-<details>
- <summary><b>See Stats</b></summary>
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=eopb&count_private=true&show_icons=true&theme=dark&hide_rank=true">
-</details>
