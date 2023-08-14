@@ -4,7 +4,7 @@
 
 I am an engineer from South East England focusing on [Rust](https://www.rust-lang.org/).
 
-I work [@TrueLayer](https://github.com/TrueLayer/) and help organise [Rust London](https://www.meetup.com/Rust-London-User-Group/).
+I work [@TrueLayer](https://github.com/TrueLayer/) and can often be found helping organise [Rust London](https://www.meetup.com/Rust-London-User-Group/) events.
 
 ### [Blog](https://lazy.codes/)
 
