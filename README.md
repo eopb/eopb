@@ -19,11 +19,5 @@ I can often be found getting involved at [Rust London](https://www.meetup.com/Ru
 
 <details>
  <summary><b>See Stats</b></summary>
-
-*NOTE: Most used languages does not indicate my skill level or anything like that, it's a github metric of which languages I have the most code in on github.*
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=eopb&count_private=true&show_icons=true&theme=dark&hide_rank=true">
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eopb&layout=compact&hide=php&theme=dark">
-
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=eopb&count_private=true&show_icons=true&theme=dark&hide_rank=true">
 </details>
