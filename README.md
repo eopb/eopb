@@ -15,4 +15,4 @@ I work [@TrueLayer](https://github.com/TrueLayer/) and can often be found helpin
 ### Social
 
 - [![Latest version](https://img.shields.io/twitter/follow/efun_b?style=social)](https://twitter.com/efun_b)
-- Discord: efun#6615
+- Discord: lazy.codes
